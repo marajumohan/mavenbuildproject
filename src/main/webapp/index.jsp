@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is my Second Deployment on Tomcat Server</h2>
+<h1 style="color:blue;">Project deployment in Tomcat Server with Blue Color </h1>
 </body>
 </html>
